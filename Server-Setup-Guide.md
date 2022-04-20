@@ -1,4 +1,4 @@
-SF-CNR Server Setup Guide
+SF-CNR Server Setup Guides
 
 The setup guide is aimed to be as concise and simple as possible. It requires you to have very programming/logic skills.
 1. Clone the repository
